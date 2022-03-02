@@ -1,9 +1,9 @@
 # jiaminghi-data-view-datav-for-vite2-vue3
 
-# @jiaminghi data-view for vite2 vue3 pnpm windows大补丁
+# @jiaminghi data-view for vite2 vue3 cnpm windows大补丁
 
 #### 介绍
-@jiaminghi data-view for vite2 vue3 pnpm windows大补丁
+@jiaminghi data-view for vite2 vue3 cnpm windows大补丁
 
 #### 使用说明
 
