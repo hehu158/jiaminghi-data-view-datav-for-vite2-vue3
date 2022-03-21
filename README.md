@@ -5,7 +5,7 @@
 
 #### 使用说明
 
-npm版本
+npm版本/yarn版本通用
 资源下载地址：https://download.csdn.net/download/hehu158/85008259
 
 cnpm版本
@@ -13,9 +13,6 @@ cnpm版本
 
 pnpm版本
 资源下载地址：https://download.csdn.net/download/hehu158/85005243
-
-yarn版本
-资源下载地址：
 
 
 官网直接安装的不支持vite2+vue3的
