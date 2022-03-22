@@ -34,3 +34,29 @@ yarn npm cnpm pnpm可通用的，就是底层node_modules位置不一样而已�
 2.将other_modules压缩包解压并覆盖到项目的node_modules文件夹下即可
 
 调用方法，请参考官网文档http://datav.jiaminghi.com/
+
+修复报错：
+
+默认新装报错1
+
+[plugin:vite:vue]
+
+/node_modules/@jiaminghi/data-view/lib/components/decoration6/src/main.vue:8:11
+
+6  |        >
+
+7  |         <rect
+
+8  |            :key="i"
+
+   |             ^
+
+9  |            :fill="mergedColor[Math.random() > 0.5 ? 0 : 1]"
+
+10 |            :x="point[0] - halfRectWidth"
+
+
+
+默认报错2:
+
+The requested module '/node_modules/@jiaminghi/c-render/lib/index.js?v=66938fb6' does not provide an export named 'default
