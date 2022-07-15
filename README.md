@@ -1,7 +1,7 @@
-# @jiaminghi data-view for vite2 vue3 cnpm/npm/pnpm/yarn windows大补丁
+# @jiaminghi data-view for vite2 vue3 cnpm/npm/pnpm/yarn windows/macos大补丁
 
 #### 介绍
-@jiaminghi data-view for vite2 vue3 cnpm/npm/pnpm/yarn windows大补丁
+@jiaminghi data-view for vite2 vue3 cnpm/npm/pnpm/yarn windows/macos大补丁
 
 #### 使用说明
 
@@ -24,7 +24,7 @@ pnpm版本
 2.加入deep监听watch，直接在父组件中修改图表中的config参数即可完成图表中的数据变更。
 
 
-yarn npm cnpm pnpm可通用的，就是底层node_modules位置不一样而已，不过修改原理都是一样的，大家可以自行下载研究，目前仅在windows下测试，macos跟linux还未测试。
+yarn npm cnpm pnpm可通用的，就是底层node_modules位置不一样而已，不过修改原理都是一样的，大家可以自行下载研究，目前仅在windows、macos下测试，linux还未测试。
 
 
 下面说下安装步骤：
